@@ -22,20 +22,6 @@
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projets-dark.svg"><img src="./assets/projets-light.svg" width="100%" alt="Projets publics. Chaque carte ouvre le dépôt ou la démo en ligne."></picture>
-
-<p>
-  <a href="https://github.com/slimgithub04/GraphHawk"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-graphhawk-dark.svg"><img src="./assets/card-graphhawk-light.svg" width="49%" alt="GraphHawk : Débogueur visuel pour agents IA : graphe d’exécution interactif, rejeu pas à pas, export JSON, PNG et Mermaid. graph."></picture></a>
-  <a href="https://sibahri.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-gulf-dark.svg"><img src="./assets/card-gulf-light.svg" width="49%" alt="Guardian of the Gulf : Oriente les pêcheurs artisanaux du golfe de Gabès vers une zone sûre et autorisée : satellite, météo, bathymétrie hors ligne. wave."></picture></a>
-</p>
-
-<p>
-  <a href="https://github.com/slimgithub04/opportunity-scouter"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-scout-dark.svg"><img src="./assets/card-scout-light.svg" width="49%" alt="Opportunity Scout : Moteur de veille modulaire : 14 sources d’offres, de hackathons et de compétitions réunies dans un même format. radar."></picture></a>
-  <a href="https://github.com/slimgithub04/kpisagent"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-kpis-dark.svg"><img src="./assets/card-kpis-light.svg" width="49%" alt="KPIs Agent : Analyse des rapports financiers publiés par le CMF tunisien : collecte des PDF, extraction, rapports rédigés par des agents. bars."></picture></a>
-</p>
-
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" width="100%" alt="Ce que je sais assembler, couche par couche."></picture>
 
 <p>
